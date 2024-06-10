@@ -24,5 +24,16 @@ One of the most powerful aspects of incorporating a Raspberry Pi is the ability 
 
 Incorporating a PCIE (Peripheral Component Interconnect Express) mount for the Raspberry Pi within the PC case adds a level of professional integration and functionality. This setup allows the Raspberry Pi to be securely mounted inside the PC case, utilizing existing PCIE slots typically used for expansion cards. This not only saves space but also ensures a clean and organized internal layout. By using a PCIE adapter, the Raspberry Pi can draw power directly from the PC’s power supply, eliminating the need for additional power adapters and reducing cable clutter. Furthermore, this integration enables direct communication between the Raspberry Pi and the PC’s motherboard, potentially allowing for advanced control and monitoring capabilities, such as directly interfacing with the system's BIOS or managing hardware directly via the PC’s operating system. This seamless integration enhances the overall reliability and functionality of the setup, making the Raspberry Pi an integral part of the PC’s ecosystem rather than an external add-on.
 
+#
+#### Related Links
+
+[Thermal Imaging PC Case](https://github.com/sourceduty/Thermal_Imaging_PC_Case)
+<br>
+[Window-Mounted Computer](https://github.com/sourceduty/Window-Mounted_Computer)
+<br>
+[Electronic Upcycle](https://chat.openai.com/g/g-VKuPoQPOf-electronic-upcycle)
+<br>
+[PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
+
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
