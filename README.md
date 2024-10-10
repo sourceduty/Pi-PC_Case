@@ -36,6 +36,8 @@ Incorporating a PCIE (Peripheral Component Interconnect Express) mount for the R
 [PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
 <br>
 [Gas-Cooled Computer](https://github.com/sourceduty/Gas-Cooled_Computer)
+<br>
+[Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
