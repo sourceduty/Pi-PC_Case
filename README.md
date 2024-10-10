@@ -1,5 +1,9 @@
 ![Pi-PC](https://github.com/sourceduty/Pi-PC_Case/assets/123030236/9bb85aa4-c8d2-4e2b-9a65-a6d7a3f9a042)
 
+> Integrating a Raspberry Pi into a PC case.
+
+#
+
 Integrating a Raspberry Pi into a PC case not only allows for basic control over cooling and lighting but also opens up a myriad of possibilities for advanced functionality. One such capability is real-time system monitoring. By connecting additional sensors, such as humidity and pressure sensors, the Raspberry Pi can provide a comprehensive overview of the internal environment of the PC. This data can be logged and analyzed over time to predict potential issues, such as overheating or moisture buildup, which could damage components. Additionally, integrating a small OLED or LCD display on the PC case can provide at-a-glance information about system status, temperatures, fan speeds, and even network connectivity.
 
 #
